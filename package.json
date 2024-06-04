@@ -1,0 +1,23 @@
+{
+  "name": "atm_areeba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Syeda Areeba",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "deneuve-package-private": "^0.0.1-security",
+    "inquirer": "^9.2.17",
+    "my-react": "npm:react@^18.3.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
